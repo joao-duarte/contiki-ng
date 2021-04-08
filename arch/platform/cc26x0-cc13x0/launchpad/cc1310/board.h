@@ -61,8 +61,8 @@
  * @{
  */
 #define LEDS_CONF_COUNT                 2
-#define LEDS_CONF_RED                   1
-#define LEDS_CONF_GREEN                 2
+#define LEDS_CONF_RED                   0
+#define LEDS_CONF_GREEN                 1
 /** @} */
 /*---------------------------------------------------------------------------*/
 /**
